@@ -66,7 +66,7 @@ Praca na bazie `cinemas_ex`.
 W pliku `Main7.java` napisz zapytania SQL, które:  
 
 1. usuną wiersz z tabeli filmów o `id` = 4,
-2. usuną wiersze z tabeli o nazwie `helios`,
+2. usuną wiersze z tabeli kin o nazwie `helios`,
 3. ustawią dla wszystkich biletów ilość na 10,
 4. usuną wszystkie płatności, których data jest wcześniejsza niż **2019-01-01**.
 

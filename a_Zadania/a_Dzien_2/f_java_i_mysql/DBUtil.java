@@ -1,7 +1,5 @@
 package a_Zadania.a_Dzien_2.f_java_i_mysql;
 
-import com.mysql.cj.protocol.Resultset;
-
 import java.sql.*;
 
 public class DBUtil {
